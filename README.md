@@ -1,6 +1,5 @@
-"# jainal-portfolio.github.io" 
+"_jainal-portfolio.github.io_"
 
+**Welcome to the open source repository of my portfolio website**
 
-##Welcome to the open source repository of my portfolio website 
-
-    Feel Free to Fork this repo and try around and hack it 😊
+Feel Free to Fork this repo and try around and hack it 😊
