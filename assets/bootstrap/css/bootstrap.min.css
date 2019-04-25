@@ -8783,6 +8783,11 @@ a.text-dark:hover {
 .portfolio-navbar .logo {
   font-size: 1.5rem;
 }
+@media (max-width: 991.98px){
+  .portfolio-navbar .logo {
+    font-size: 1.2em;
+  }
+}
 .portfolio-navbar.fixed-top + .page {
   padding-top: 62px;
 }
